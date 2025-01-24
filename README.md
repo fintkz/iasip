@@ -10,3 +10,8 @@ Checks disk space, uses progress bars, downloads in parallel. You know, the work
 uv sync
 uv run -m playwright install
 uv run download.py
+```
+
+## TODO
+- It's slow make it faster
+- Make it more general. ugh 
